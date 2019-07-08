@@ -1,0 +1,8 @@
+C:\Users\Luis\AppData\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts\InteractiveLS\InteractiveLS.dll
+C:\Users\Luis\AppData\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts\InteractiveLS\InteractiveLS.pdb
+C:\Users\Luis\source\repos\InteractiveLS\InteractiveLS\obj\Debug\InteractiveLS.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\InteractiveLS\InteractiveLS\obj\Debug\InteractiveLS.dll
+C:\Users\Luis\source\repos\InteractiveLS\InteractiveLS\obj\Debug\InteractiveLS.pdb
+C:\Users\Luis\source\repos\InteractiveLS\InteractiveLS\obj\Debug\InteractiveLS.csproj.CopyComplete
+C:\Users\Luis\source\repos\InteractiveLS\InteractiveLS\obj\Debug\InteractiveLS.csprojAssemblyReference.cache
+C:\Users\Luis\AppData\Roaming\Streamlabs\Streamlabs Chatbot\Services\Scripts\InteractiveLS\InteractiveLS.xml
